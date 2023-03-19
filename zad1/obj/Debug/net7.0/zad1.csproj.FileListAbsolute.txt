@@ -1,0 +1,15 @@
+/home/paulina/Documents/alg_num/zad1/bin/Debug/net7.0/zad1
+/home/paulina/Documents/alg_num/zad1/bin/Debug/net7.0/zad1.deps.json
+/home/paulina/Documents/alg_num/zad1/bin/Debug/net7.0/zad1.runtimeconfig.json
+/home/paulina/Documents/alg_num/zad1/bin/Debug/net7.0/zad1.dll
+/home/paulina/Documents/alg_num/zad1/bin/Debug/net7.0/zad1.pdb
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.csproj.AssemblyReference.cache
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.AssemblyInfoInputs.cache
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.AssemblyInfo.cs
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.csproj.CoreCompileInputs.cache
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.dll
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/refint/zad1.dll
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.pdb
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/zad1.genruntimeconfig.cache
+/home/paulina/Documents/alg_num/zad1/obj/Debug/net7.0/ref/zad1.dll
